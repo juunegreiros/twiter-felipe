@@ -1,0 +1,6 @@
+{
+    "posts": [
+      { "id": 1, "body": "toper", "author": "fe" }
+    ],
+    "profile": { "name": "fe" }
+}
